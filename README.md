@@ -1,4 +1,5 @@
-# Weather App - Deployed Link - https://weather-app-sigma-livid-41.vercel.app/
+# Weather WebApp 
+Deployed Link - https://weather-app-sigma-livid-41.vercel.app/
 
 ## Description
 This is a simple weather application built using React.js and Material UI. It fetches real-time weather data from the OpenWeatherMap API and displays weather details based on the user's input.
